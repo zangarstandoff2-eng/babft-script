@@ -1457,4 +1457,4 @@ UIS.InputBegan:Connect(function(input, gameProcessed)
 end)
 
 print("R.E.G ULTIMATE ЗАГРУЖЕН")
-print("F1 - Меню | F2 - ESP | F3 - Фарм | F4 - Jump | F5 - Bright | F6 - Noclip | F7 - Анти-АФК | F8 - Автополет (скорость 300) | F10 - Остановить Spectate")
+print("F1 - Меню | F2 - ESP | F3 - Фарм | F4 - Jump | F5 - Bright | F6 - Noclip | F7 - Анти-АФК | F8 - Автополет (скорость 300) | F10 - Остановить Spectate") Full script
